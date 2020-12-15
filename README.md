@@ -23,6 +23,8 @@ To deploy to your personal device for testing, your will need an Apple Developer
 
 To deploy this to your fleet of devices you will have to either push directly with an MDM such as Microsoft inTune, deploy directly on each device or otherwise publish to your App Store. Please note that I have no idea whether this will meet Apple App Store guidelines.
 
+Guide to publish an IPA file directly with inTune: https://docs.microsoft.com/en-us/mem/intune/apps/lob-apps-ios
+
 
 Customization
 
