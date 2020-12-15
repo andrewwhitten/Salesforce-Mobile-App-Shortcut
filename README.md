@@ -2,7 +2,7 @@
 
 This is a very simple iOS App that has a customized name and icon, and will redirect to the Salesforce Mobile app. If you are rolling out mobile to the hyperthetical Ursa Major solar company, then you may want to give users and App with your company's own logo and name.
 
-Salesforce also provide Mobile Publisher https://help.salesforce.com/articleView?id=s1_branded_apps.htm&language=en_us&r=https%3A%2F%2Fwww.google.com%2F&type=5 for an additional license that will package the Salesforce Mobile app with your branding and publish to the Apple and Google app stores. This shortcut is an alternative way to acheivew something similar, however you need to be comfortable with the iOS device publishing and management.
+Salesforce also provide Mobile Publisher https://help.salesforce.com/articleView?id=s1_branded_apps.htm&language=en_us&r=https%3A%2F%2Fwww.google.com%2F&type=5 for an additional license that will package the Salesforce Mobile app with your branding and publish to the Apple and Google app stores. This shortcut app is an alternative way to acheive something similar, however you need to be comfortable with the iOS device publishing and management.
 
 <table>
   <tr>
