@@ -43,3 +43,10 @@ Guide to publish an IPA file directly with inTune: https://docs.microsoft.com/en
 <h3>Customization</h3>
 
 To change this App, just open in XCode and change the name and icons to your company's branding. You can change the layout in ContentView.swift to change the presentation of that screen.
+
+
+<h3>Last thoughts</h3>
+
+* This can be used to brand any vendor app on your iOS device. For example this should work for the Microsoft Dynamics 365 Mobile app by replacing the URI with "ms-dynamicsxrm://"
+* You will probably need to recompile this every year after every new iOS release
+* In theory Salesforce could change the URI behavior in future, although I doubt that they will do this
