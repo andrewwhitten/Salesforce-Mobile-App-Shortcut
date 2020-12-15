@@ -19,7 +19,7 @@ Salesforce also provide Mobile Publisher https://help.salesforce.com/articleView
   <img alt="timeline demo" src="Ursa Major iPad.gif">
 </p>
 
-Pre-requisites
+<h3>Pre-requisites</h3>
 
 * Apple computer (MacBook or whatever)
 * Apple XCode
@@ -30,7 +30,7 @@ Pre-requisites
 
 
 
-Deployment
+<h3>Deployment</h3>
 
 You can deploy easially to the iOS emulator, however it isn't too helpful given that you need Salesforce Mobile and that can't be installed.
 
@@ -41,6 +41,6 @@ To deploy this to your fleet of devices you will have to either push directly wi
 Guide to publish an IPA file directly with inTune: https://docs.microsoft.com/en-us/mem/intune/apps/lob-apps-ios
 
 
-Customization
+<h3>Customization</h3>
 
 To change this App, just open in XCode and change the name and icons to your company's branding. You can change the layout in ContentView.swift to change the presentation of that screen.
