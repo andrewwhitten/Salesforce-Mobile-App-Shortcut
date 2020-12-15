@@ -31,6 +31,8 @@ Salesforce also provide Mobile Publisher https://help.salesforce.com/articleView
 
 <h3>Deployment</h3>
 
+You will need to define your own provisioning profile for this Xcode project before it will build.
+
 You can deploy this app easially to the iOS emulator, however the related Salesforce Mobile app can't be installed.
 
 To deploy to your personal device for testing, your will need an Apple Developer account and some compatiable iPhones or iPads. Note that you will have to authorize the app as trusted on each device.
