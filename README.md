@@ -1,6 +1,8 @@
 # Salesforce-Mobile-App-Shortcut
 
-This is a very simple iOS App that has a customized name and icon, and will redirect to the Salesforce Mobile app. For example you may want to have a personalized experience for your users, and not have the Salesforce Mobile Publisher licensing. 
+This is a very simple iOS App that has a customized name and icon, and will redirect to the Salesforce Mobile app. If you are rolling out mobile to the hyperthetical Ursa Major solar company, then you may want to give users and App with your company's own logo and name.
+
+Salesforce also provide Mobile Publisher https://help.salesforce.com/articleView?id=s1_branded_apps.htm&language=en_us&r=https%3A%2F%2Fwww.google.com%2F&type=5 for an additional license that will package the Salesforce Mobile app with your branding and publish to the Apple and Google app stores. This shortcut is an alternative way to acheivew something similar, however you need to be comfortable with the iOS device publishing and management.
 
 Pre-requisites
 
@@ -15,7 +17,7 @@ Pre-requisites
 
 Deployment
 
-You can deploy easially to the iOS emulator, however it isn't too helpful given that you need Salesforce Mobile installed as well.
+You can deploy easially to the iOS emulator, however it isn't too helpful given that you need Salesforce Mobile and that can't be installed.
 
 To deploy to your personal device for testing, your will need an Apple Developer account and some compatiable iPhones or iPads. Note that you will have to autherize the app as trusted on each device.
 
