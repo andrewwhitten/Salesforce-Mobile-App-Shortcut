@@ -4,7 +4,9 @@ This is a very simple iOS App that has a customized name and icon, and will redi
 
 Salesforce also provide Mobile Publisher https://help.salesforce.com/articleView?id=s1_branded_apps.htm&language=en_us&r=https%3A%2F%2Fwww.google.com%2F&type=5 for an additional license that will package the Salesforce Mobile app with your branding and publish to the Apple and Google app stores. This shortcut is an alternative way to acheivew something similar, however you need to be comfortable with the iOS device publishing and management.
 
-[iPad example](./Ursa Major iPad.gif)
+<p align="center">
+  <img alt="timeline demo" src="Ursa Major iPad.gif">
+</p>
 
 Pre-requisites
 
